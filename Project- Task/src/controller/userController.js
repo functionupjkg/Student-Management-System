@@ -4,6 +4,7 @@ const jwt = require('jsonwebtoken');
 
 
 
+
 const { isValidEmail, isValidpassword, isValidName } = require('../validation/validation');
 
 //=================================================[ Create User API ]================================================
